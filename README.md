@@ -1,3 +1,3 @@
  # Portfolio
 
-## This is a simple portfolio website made using HTML, CSS and Javascript.
+## This is my simple portfolio website which is created using HTML, CSS and Javascript.
